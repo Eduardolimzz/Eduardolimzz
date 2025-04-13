@@ -1,8 +1,8 @@
 ## Olá, me chamo Eduardo Lima,18
 
-- 👨‍💻Estou em busca de um trabalho
-- 💻 Estudando Back-end
-- ✉️ Contate-me no email: eduardoaluno1800@gmail.com
+- 👨‍💻 Estou em busca de um trabalho
+- 💻 Back-end
+- ✉️ email: eduardoaluno1800@gmail.com
 
 ### 🚀 Minhas principais linguagens:
 <div style="display: inline_block"><br>
