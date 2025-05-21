@@ -14,10 +14,9 @@
   <br>
 </div>
 ### 📊 Estatísticas do GitHub
-<div style="display: flex; align-items: center; gap: 10px; background-color: #0d1117; padding: 20px; border-radius: 10px;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardolimzz&show_icons=true&theme=dark&cache_seconds=1800"/>
+<div style="display: flex; align-items: center; gap: 10px; background-color: #0d1117; padding: 20px; border-radius: 10px;"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardolimzz&show_icons=true&theme=dark&cache_seconds=1800"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardolimzz&layout=compact&theme=dark&cache_seconds=1800"/>
-    <br>
 </div>
 
 ## 🌎 Onde me encontrar:
