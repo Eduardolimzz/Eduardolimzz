@@ -7,11 +7,11 @@
 - ✉️ email: eduardoaluno1800@gmail.com
 
 ### 🚀 Minhas principais linguagens:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Edu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Edu-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Edu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+  <img align="center" alt="Edu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"><br>
 </div>
 
 ### 📊 Estatísticas do GitHub
