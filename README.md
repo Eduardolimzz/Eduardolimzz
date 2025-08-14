@@ -1,4 +1,4 @@
-## Olá, me chamo Eduardo Lima,19
+## Olá, me chamo Eduardo Lima, 19
 - 👨‍💻 Estou em busca de uma oportunidade profissional
 - 🎓 Estudante de Ciência da Computação
 - 💼 Estagiário de Desenvolvimento Full Stack na Marinha do Brasil
@@ -7,46 +7,24 @@
 
 ### 🚀 Minhas principais linguagens:
 <p>
-<p>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-</p>
-
 
 ### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardolimzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardolimzz&layout=compact&theme=dark&count_private=true"/>
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Eduardolimzz&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardolimzz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardolimzz&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardolimzz&theme=dark" alt="GitHub Streak"/>
+</div>
 
 ---
-
 ## 🌎 Onde me encontrar:
 <div> 
   <a href="https://portfolio-eduardo-lima.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge"></a>
