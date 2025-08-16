@@ -21,5 +21,5 @@
 <div> 
   <a href="https://portfolio-eduardo-lima.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge"></a>
   <a href="mailto:eduardoaluno1800@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/eduardo-lima-dos-santos-3b1092316/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/eduardo-lima-dos-santos-3b1092316/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
