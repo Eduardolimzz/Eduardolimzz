@@ -49,8 +49,7 @@ Desenvolvedor Backend apaixonado por tecnologia, com foco em **Java** e **Spring
 
 [![Todo Challenge](https://img.shields.io/badge/Todo_Challenge-REST_API_•_Spring_Boot_+_JPA-f8efd4?style=for-the-badge&logoColor=000000)](https://github.com/Eduardolimzz/spring-boot-todo-challenge)
 
-[![Projeto Integrador](https://img.shields.io/badge/Projeto_Integrador-Camadas_•_Node_+_Spress_+_MySQL-f8efd4?style=for-the-badge&logoColor=000000)](https://github.com/Eduardolimzz/Projeto-Integrador)
-
+[![Projeto Integrador](https://img.shields.io/badge/Projeto_Integrador-Camadas_•_Node_+_Express_+_MySQL-f8efd4?style=for-the-badge&logoColor=000000)](https://github.com/Eduardolimzz/Projeto-Integrador)
 
 </div>
 
