@@ -26,8 +26,8 @@ Desenvolvedor Backend apaixonado por tecnologia, com foco em **Java** e **Spring
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardolimzz&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=f8efd4&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardolimzz&hide_border=true&background=f8efd4&stroke=000000&ring=000000&fire=000000&sideLabels=000000&currStreakLabel=000000&currStreakNum=000000&dates=000000" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Eduardolimzz&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=f8efd4&hide_border=true" alt="GitHub Stats" />
+  <img width="47.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardolimzz&hide_border=true&background=f8efd4&stroke=000000&ring=000000&fire=000000&sideLabels=000000&currStreakLabel=000000&currStreakNum=000000&dates=000000" alt="GitHub Streak" />
 </p>
 
 <p align="center">
