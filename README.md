@@ -45,11 +45,12 @@ Desenvolvedor Backend apaixonado por tecnologia, com foco em **Java** e **Spring
 
 <div align="left">
   
-[![EventosApp](https://img.shields.io/badge/EventosApp-MVC_•_Java_+_Spring_Boot_+_MySQL-f8efd4?style=for-the-badge&logoColor=000000)](https://github.com/Eduardolimzz/EventosApp)
+[![EventosApp](https://img.shields.io/badge/EventosApp-MVC_•_Java_+_Spring_Boot_+_MySQL-f8efd4?style=for-the-badge&logo=springboot&logoColor=000000)](https://github.com/Eduardolimzz/EventosApp)  
 
-[![Todo Challenge](https://img.shields.io/badge/Todo_Challenge-REST_API_•_Spring_Boot_+_JPA-f8efd4?style=for-the-badge&logoColor=000000)](https://github.com/Eduardolimzz/spring-boot-todo-challenge)
+[![Todo Challenge](https://img.shields.io/badge/Todo_Challenge-REST_API_•_Spring_Boot_+_JPA-f8efd4?style=for-the-badge&logo=springboot&logoColor=000000)](https://github.com/Eduardolimzz/spring-boot-todo-challenge)  
 
-[![Projeto Integrador](https://img.shields.io/badge/Projeto_Integrador-Camadas_•_Node_+_Express_+_MySQL-f8efd4?style=for-the-badge&logoColor=000000)](https://github.com/Eduardolimzz/Projeto-Integrador)
+[![Projeto Integrador](https://img.shields.io/badge/Projeto_Integrador-Camadas_•_Node_+_Express_+_MySQL-f8efd4?style=for-the-badge&logo=node.js&logoColor=000000)](https://github.com/Eduardolimzz/Projeto-Integrador)  
+
 
 </div>
 
@@ -58,9 +59,9 @@ Desenvolvedor Backend apaixonado por tecnologia, com foco em **Java** e **Spring
 
 ## 📫 Contato
 <div> 
-  <a href="https://portfolio-eduardo-lima.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-f8efd4?style=for-the-badge&logoColor=000000"></a>
+  <a href="https://portfolio-eduardo-lima.com.br/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfólio-f8efd4?style=for-the-badge&logoColor=000000"></a>
   <a href="mailto:eduardoaluno1800@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-f8efd4?style=for-the-badge&logo=gmail&logoColor=000000"></a>
-  <a href="https://www.linkedin.com/in/eduardo-lima-dos-santos-3b1092316/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=linkedin&logoColor=000000"></a>
+  <a href="https://www.linkedin.com/in/eduardo-lima-dos-santos-3b1092316/" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-f8efd4?style=for-the-badge&logo=linkedin&logoColor=000000"></a>
 </div>
 
 ---
