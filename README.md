@@ -51,6 +51,8 @@ Desenvolvedor Backend apaixonado por tecnologia, com foco em **Java** e **Spring
 
 [![Projeto Integrador](https://img.shields.io/badge/Projeto_Integrador-Camadas_•_Node_+_Express_+_MySQL-f8efd4?style=for-the-badge&logo=node.js&logoColor=000000)](https://github.com/Eduardolimzz/Projeto-Integrador)  
 
+[![Investment Aggregator](https://img.shields.io/badge/Investment_Aggregator-API_REST_•_Java_+_Spring_Boot_+_MySQL-f8efd4?style=for-the-badge&logo=springboot&logoColor=000000)](https://github.com/Eduardolimzz/investment-aggregator)
+
 
 </div>
 
